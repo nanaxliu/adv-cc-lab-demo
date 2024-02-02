@@ -1,0 +1,27 @@
+body{
+    background-color:bisque;
+ }
+
+ .artist {
+    background-color: coral;
+ } 
+
+ #song {
+    background-color:cornflowerblue;
+ }
+
+a {
+    color: white;
+ }
+
+p {
+    color:cornflowerblue;
+}
+
+.c1 {
+    color:coral
+}
+
+.c2 {
+    color:black;
+}
